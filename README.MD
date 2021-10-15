@@ -1,8 +1,8 @@
 # Calcular media usando client streaming Grpc
 Breve estudo sobre funcionamento do client streaming
 ## Iniciar aplicação
-Execute : ./server.sh para iniciar o servidor
-Execute : ./client.sh para iniciar a funcionalidade
+- Execute : ./server.sh para iniciar o servidor
+- Execute : ./client.sh para iniciar a consulta
 #   Configurando ambiente
 - 
     - go mod download
